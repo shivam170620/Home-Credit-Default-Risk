@@ -238,7 +238,7 @@ set for a more reliable final estimate.
 5.  Check that the input paths, package versions, and expected column
     names match your downloaded files before running the full pipeline.
 
-## Interview talking points
+## Questionaaire talking points
 
 -   Why the target is imbalanced and why accuracy is misleading.
 -   Why one-to-many historical tables must be aggregated before merging.
@@ -284,6 +284,6 @@ set for a more reliable final estimate.
 
 ------------------------------------------------------------------------
 
-**Project purpose:** educational portfolio and interview preparation.
+**Project purpose:** educational portfolio and Questionaaire preparation.
 Results should be reproduced and validated before being presented as
 production-ready performance.
